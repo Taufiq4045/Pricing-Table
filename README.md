@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Have a look at pricing table by Clicking [Here](https://app.netlify.com/sites/happy-fermi-5bee16/deploys/61363a991002021526bc0f3c).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
